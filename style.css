@@ -1,0 +1,41 @@
+#text_head
+{
+    font-family: 'Cantata One', serif;
+    font-size: 50px;
+    color:white;
+    margin-left: 70px;
+    margin-right:50px;
+}
+
+#header{
+    background-color: black;
+}
+
+
+#header
+{
+    display: block;
+    height: 150px;
+}
+
+.navbar .container-fluid .navbar-header a
+{
+    margin-left: 25px;
+    margin-right:25px;
+}
+/* 
+.navbar .container-fluid .col-md-1
+{
+    margin-left: 20px;
+} */
+
+#carousel
+{
+    display: block;
+    max-height:800px;
+}
+
+body
+{
+    background-color: black;
+}
